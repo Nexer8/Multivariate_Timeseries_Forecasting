@@ -1,6 +1,6 @@
 # Multivariate Time Series Forecasting
 
-Link to [Codalab competition](codalab.lisn.upsaclay.fr/competitions/621).
+Link to [Codalab competition](https://codalab.lisn.upsaclay.fr/competitions/621).
 
 ## Authors
 
